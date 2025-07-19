@@ -1,27 +1,17 @@
-<!-- Banner -->
 ![My Banner](https://raw.githubusercontent.com/kannan126/kannan126/main/assets/my-banner.png)
 
-<!-- Intro Header -->
-<h2>👋 Hi there, I'm Kannan</h2>
 
-<!-- About Me Section -->
-<h3>👨‍💻 About Me</h3>
+## 👋 Hi there , I'm Kannan
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔭 Currently building: <strong>code verse</strong> (React + Node.js + MongoDB + AWS + Generative AI)</li>
-        <li>🌱 Currently learning: <code>React</code>, <code>Redux</code>, <code>Node.js</code>, <code>AWS (EC2, S3, Lambda)</code></li>
-        <li>💼 Looking for: <strong>SDE-1 opportunities</strong></li>
-        <li>🛠️ Tech Stack: <code>React</code>, <code>TailwindCSS</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>AWS</code>, <code>Git</code></li>
-        <li>🧠 Interests: Clean UI, scalable backend systems, and CI/CD basics</li>
-        <li>💻 DSA Practice: Just started on <a href="https://leetcode.com/Kannan-12/" target="_blank">LeetCode</a></li>
-        <li>📫 Reach me on <a href="https://www.linkedin.com/in/kannan-k-83a7aa237/" target="_blank">LinkedIn</a></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/kannan126/kannan126/refs/heads/main/assets/my-gif.png" width="250" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
+
+
+Hi! I'm Kannan — a passionate developer focused on building real-world projects, sharpening problem-solving skills, and learning modern tech.
+
+- 🔭 Currently building: **code verse** (React + Node.js + MongoDB + AWS + Generative AI)
+- 🌱 Currently learning: React, Redux, Node.js, AWS (EC2, S3, Lambda), and improving in **Data Structures & Algorithms (DSA)**
+- 💼 Looking for: **SDE-1 opportunities** (Frontend or Full Stack)
+- 🛠️ Tech Stack: React, Redux, TailwindCSS, Node.js, Express, MongoDB, AWS, Git & GitHub
+- 🧠 Interests: Clean UI, scalable backend systems, and DevOps basics (CI/CD)
+- 💻 DSA Practice: Just getting started with [LeetCode Profile](https://leetcode.com/Kannan-12/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kannan-k-83a7aa237/)
