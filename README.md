@@ -9,9 +9,10 @@
 
 <!-- What I'm Doing -->
 - 🔭 Currently building: **code verse** (React + Node.js + MongoDB + AWS + Generative AI)  
-- 🌱 Currently learning: React, Redux, Node.js, AWS (EC2, S3, Lambda)  
-- 💼 Looking for: **SDE-1 opportunities**  
-- 🛠️ Tech Stack: React, Redux, TailwindCSS, Node.js, Express, MongoDB, AWS, Git & GitHub  
+- 🌱 Currently learning: Typescript, AWS (EC2, S3, Lambda), and improving in **Data Structures & Algorithms (DSA)**  
+- 💼 Looking for: **SDE-1 opportunities** (Frontend or Full Stack)  
+- 🛠️ Ask me About: React, Redux, TailwindCSS, Node.js, Express, MongoDB, AWS, Git & GitHub  
+- 🧠 Interests: Clean UI, Generative AI , and DevOps basics (CI/CD)   
 - 💻 DSA Practice: [LeetCode](https://leetcode.com/Kannan-12/)  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kannan-k-83a7aa237/)
 
@@ -28,5 +29,5 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40" />
+  <img src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
 </p>
