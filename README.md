@@ -13,10 +13,12 @@
 - 💼 Looking for: **SDE-1 opportunities** (Frontend or Full Stack)  
 - 🛠️ Ask me About: React, Redux, TailwindCSS, Node.js, Express, MongoDB, AWS, Git & GitHub  
 - 🧠 Interests: Clean UI, Generative AI , and DevOps basics (CI/CD)   
-- 💻 DSA Practice: Just Getting started[LeetCode](https://leetcode.com/Kannan-12/)  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kannan-k-83a7aa237/)
+- 💻 DSA Practice: Just Getting started [LeetCode] (https://leetcode.com/Kannan-12/)  
+- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/kannan-k-83a7aa237/)
 
 ---
+
+## 🚀 Tech Stack
 
 ## 🚀 Tech Stack
 
@@ -31,5 +33,5 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" title="AWS" width="40" height="40" />
 </p>
