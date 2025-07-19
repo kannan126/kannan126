@@ -3,7 +3,6 @@
 <h2 align="center">👋 Hi there, I'm Kannan</h2>
 <h3 align="center">I am a Full Stack Developer</h3>
 
----
 
 - 🔭 Currently building: **code verse** (React + Node.js + MongoDB + AWS + Generative AI)  
 - 🌱 Currently learning: React, Redux, Node.js, AWS (EC2, S3, Lambda), and improving in **Data Structures & Algorithms (DSA)**  
@@ -26,5 +25,5 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="60" />
 </p>
