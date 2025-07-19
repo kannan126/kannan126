@@ -6,8 +6,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 Hi! I'm Kannan — a passionate developer focused on building real-world projects, sharpening problem-solving skills, and learning modern tech.
 
 - 🔭 Currently building: **Dev Tinder** (React + Node.js + MongoDB + AWS)
