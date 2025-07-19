@@ -20,8 +20,6 @@
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
   &nbsp;&nbsp;
